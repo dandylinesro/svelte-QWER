@@ -1,5 +1,11 @@
 # @kwchang0831/svelte-qwer
 
+## 0.6.1
+
+### Patch Changes
+
+- 6ffe6ee: fix: check $page.route before accessing id
+
 ## 0.6.0
 
 ### Minor Changes
